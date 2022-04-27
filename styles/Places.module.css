@@ -1,0 +1,89 @@
+.Places {
+    margin-top: 5em;
+    margin-left: 10%;
+}
+
+.titleContainer {
+    margin-bottom: 2em;
+}
+
+.title {
+    font-size: 3.5em;
+}
+
+.filterContainer {
+    margin-bottom: 3em;
+    display: flex;
+    flex-direction: row;
+    column-gap: 1.5em;
+}
+
+.categories {
+    height: 2.5em;
+    width: 12em;
+    border-radius: 15px;
+    padding: 0px 8px
+}
+
+.search {
+    margin-top: .25em;
+    height: 2em;
+    width: 15em;
+    border-radius: 20px;
+    padding-inline-start: 10px;
+    border-width: 1px;
+    border-color: black;
+}
+
+.cardContainer {
+    background-color: #F2F2F2;
+    width: 90%;
+    height: 200px;
+    min-height: 45em;
+    overflow: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 2em;
+    padding-left: 2em;
+    border-radius: 30px;
+}
+
+.cards {
+    width: 15em;
+    min-height: 18em;
+    max-height: 18em;
+    margin-top: 2em;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.body {
+    margin-top: 10px;
+}
+
+.address {
+    margin-top: -.4em;
+    font-weight: lighter;
+}
+
+.tags {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 5px;
+    row-gap: 5px;
+    margin-top: -.5em;
+}
+
+.tag {
+    width: min-content;
+    color: white;
+    padding-inline-end: 10px;
+    padding-inline-start: 10px;
+    border-radius: 20px;
+    font-size: 13px;
+}
