@@ -1,0 +1,73 @@
+.placeContainer {
+    margin-top: 7em;
+    margin-left: 10em;
+    background-color: #F2F2F2;
+    width: 80%;
+    padding-left: 5em;
+    padding-top: 2em;
+    height: 50em;
+    border-radius: 30px;
+}
+
+.placeHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nameContainer {
+    display: flex;
+    flex-direction: row;
+    column-gap: 2em;
+}
+
+.title {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column;
+    row-gap: .4em;
+}
+
+.name {
+    margin-bottom: 0;
+}
+
+.address {
+    margin-bottom: 0;
+}
+
+.phone {}
+
+.buttons {
+    margin-right: 8%;
+    margin-top: 2em;
+
+}
+
+.webbutton {
+    margin-right: 2em;
+    height: 3.5em;
+    width: 9em;
+    border-radius: 20px;
+    border-color: #479CFF;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.dirbutton {
+    height: 3.5em;
+    width: 9em;
+    border-radius: 20px;
+    background-color: #479CFF;
+    color: white;
+    border: none;
+}
+
+.description {
+    margin-top: 2em;
+}
+
+.description>p {
+    font-size: 1.5em;
+    font-weight: lighter;
+}

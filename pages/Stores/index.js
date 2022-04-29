@@ -13,10 +13,11 @@ export default function index() {
                 <input className={styles.search} placeholder='Search' type="text" />
                   <select placeholder='Categories' name="Tags" className={styles.categories}>
                       <option value="" disabled selected hidden>Categories</option>
-                      <option value="Any">Any</option>
-                      <option value="Italian">Italian</option>
-                      <option value="Fast">Fast</option>
-                      <option value="Dessert">Dessert</option>
+                      <option value="">Any</option>
+                      <option value="Groceries">Groceries</option>
+                      <option value="School">School</option>
+                      <option value="Tech">Tech</option>
+                      <option value="Clothes"> Clothes</option>
                   </select>
             </div>
             <div className={styles.cardContainer}>
