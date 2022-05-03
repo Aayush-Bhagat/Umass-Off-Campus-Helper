@@ -1,8 +1,11 @@
-import React from 'react'
-import { Card } from 'react-bootstrap'
+import React, {useState} from 'react'
+import CardTemp from '../../components/CardTemp'
 import styles from '../../styles/Places.module.css'
+import JSON from '../../Entertainment.json';
 
-export default function index() {
+export default function Index() {
+    const [data, setData] = useState(JSON)
+
     return (
         <>
             <div className={styles.Places}>
@@ -20,19 +23,9 @@ export default function index() {
                     </select>
                 </div>
                 <div className={styles.cardContainer}>
-                    <Card className={styles.cards}>
-                        <img width="90px" height="90px" src="https://corporate.target.com/_media/TargetCorp/Press/B-roll%20and%20Press%20Materials/Logos/Target_Bullseye-Logo_Red.jpg?preset=640w" alt="" />
-                        <Card.Body className={styles.body}>
-                            <Card.Title>Target</Card.Title>
-                            <p className={styles.address}>367 Russell St, Hadley, MA 01035</p>
-                            <div className={styles.tags}>
-                                <div className={styles.tag} style={{ backgroundColor: '#63BDFF' }}>Groceries</div>
-                                <div className={styles.tag} style={{ backgroundColor: '#FF6363' }}>School</div>
-                                <div className={styles.tag} style={{ backgroundColor: '#FFC163' }}>Tech</div>
-                                <div className={styles.tag} style={{ backgroundColor: '#9E63FF' }}>Clothes</div>
-                            </div>
-                        </Card.Body>
-                    </Card>
+                    {data.map((ent) => {
+                        return (<CardTemp key={ent.id} place={ent} />)
+                    })}
                 </div>
             </div>
         </>

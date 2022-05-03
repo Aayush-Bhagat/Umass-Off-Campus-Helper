@@ -1,0 +1,273 @@
+[
+  {
+    "id": 1,
+    "name": "Target",
+    "address": "367 Russell St, Hadley, MA 01035",
+    "phone": "413-586-5945",
+    "tags": [
+      "Groceries",
+      "School",
+      "Tech",
+      "Clothes"
+    ],
+    "Website": "https://www.target.com/sl/hadley/1839",
+    "Google maps link": "https://www.google.com/maps/place/Target/@42.3572616,-72.5488424,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6d192646da621:0xa1b294df2aeeac9d!8m2!3d42.3572616!4d-72.5466537",
+    "Description": "Target Corporation (Target) is a general merchandise retailer selling products through its stores and digital channels. The Company sells an assortment of general merchandise and food. The Company’s product category includes apparel and accessories, beauty and household essentials, food and beverage, hardlines, and home furnishing and decor. Its general merchandise stores offer an edited food assortment, including perishables, dry grocery, dairy and frozen items.",
+    "image": "https://corporate.target.com/_media/TargetCorp/Press/B-roll%20and%20Press%20Materials/Logos/Target_Bullseye-Logo_Red.jpg?preset=640w"
+  },
+  {
+    "id": 2,
+    "name": "Walmart",
+    "address": "337 Russell St, Hadley, MA 01035",
+    "phone": "413-586-4231",
+    "tags": [
+      "Groceries",
+      "School",
+      "Tech",
+      "Clothes"
+    ],
+    "Website": "https://www.walmart.com/store/2683-hadley-ma",
+    "Google maps link": "https://www.google.com/maps/place/Walmart/@42.3547821,-72.5547094,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6d19056077843:0xfb7e3e3a5aaa02c4!8m2!3d42.3547821!4d-72.5525207",
+    "Description": "Walmart is al all purpose superstore that emphasizes value and a wide selection of retail goods",
+    "image": "https://logos-download.com/wp-content/uploads/2016/02/Walmart_logo_transparent_png_blue.png"
+  },
+  {
+    "id": 3,
+    "name": "Dick's Sporting Goods",
+    "address": "367 Russell St, Hadley, MA 01035",
+    "phone": "413-586-6934",
+    "tags": [
+      "Sports"
+    ],
+    "Website": "https://stores.dickssportinggoods.com/ma/hadley/176/",
+    "Google maps link": "https://www.google.com/maps/place/DICK'S+Sporting+Goods/@42.3564756,-72.5507491,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6d192646da621:0xd7a7e0951bab71ec!8m2!3d42.3564756!4d-72.5485604",
+    "Description": "Sporting goods chain with equipment, apparel & footwear for athletics, outdoor recreation & fitness.",
+    "image": "https://leftiris.com/wp-content/uploads/Client-Logos/Color/Dicks-Sporting-Goods-Logo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Trader Joe's",
+    "address": "375 Russell St, Hadley, MA 01035",
+    "phone": "413-586-3260",
+    "tags": [
+      "Groceries"
+    ],
+    "Website": "https://locations.traderjoes.com/ma/hadley/512/",
+    "Google maps link": "https://www.google.com/maps/place/Trader+Joe's/@42.3577603,-72.5515551,17z/data=!3m1!4b1!4m5!3m4!1s0x89e6d18dbd45e755:0xc6e06be8c937de1f!8m2!3d42.3577603!4d-72.5493664",
+    "Description": "Trader Joe’s is a national chain of neighborhood grocery stores committed to providing customers with outstanding value in the form of the best quality products at the best everyday prices.",
+    "image": "https://assets.6sigma.us/wp-content/uploads/2017/07/trader-joes-1.png"
+  },
+  {
+    "id": 5,
+    "name": "PetSmart",
+    "address": "367 Russell St, Hadley, MA 01035",
+    "phone": "413-923-3271",
+    "tags": [
+      "Misc"
+    ],
+    "Website": "https://www.petsmart.com/stores/us/ma/hadley-store2717.html",
+    "Google maps link": "https://www.google.com/maps/dir//petsmart+hadley/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e6d1925c97ae6f:0x779780a58262bc21?sa=X&ved=2ahUKEwiqj7T8r8H3AhWVj4kEHVgxDRMQ9Rd6BAhdEAQ",
+    "Description": "Chain featuring a range of pets, supplies & food",
+    "image": "https://acworthtourism.org/cms/wp-content/uploads/2020/05/petsmart-logo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "X-9 Games",
+    "address": "367 Russell St, Hadley, MA 01035",
+    "phone": "413-582-0310",
+    "tags": [
+      "Tech"
+    ],
+    "Website": "https://www.hampshiremall.com/tenants/x-9-games/",
+    "Google maps link": "https://www.google.com/maps/dir//x9+games/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e6d192646da621:0x2bc9dbdb1b058879?sa=X&ved=2ahUKEwjipNu9sMH3AhVTkokEHd1rAVoQ9Rd6BAhHEAU",
+    "Description": "X9 Games is a full service game store with a large selection of collectible\ncard games, collectible miniature games, board games, dice, gaming supplies and much more!",
+    "image": "https://scontent-bos3-1.xx.fbcdn.net/v/t1.18169-9/12193678_502886626539688_6513142895374577731_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Axffo1hWqewAX-yhusi&_nc_ht=scontent-bos3-1.xx&oh=00_AT_FrAvBv7T5TDG6DkBJO46dZmmx93Tn558jHiqAcK6Pvg&oe=6296FFD9"
+  },
+  {
+    "id": 7,
+    "name": "JCPenny",
+    "address": "367 Russell St, Hadley, MA 01035",
+    "phone": "413-586-5505",
+    "tags": [
+      "School",
+      "Tech",
+      "Clothes"
+    ],
+    "Website": "https://www.hampshiremall.com/tenants/jcpenney/",
+    "Google maps link": "https://www.google.com/maps/dir//jcpenney+hampshire+mall/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e6d192462786a1:0xbbc2d62397179d09?sa=X&ved=2ahUKEwiJ6MidvcH3AhU9kYkEHWXBB_wQ9Rd6BAhREAQ",
+    "Description": "American department store chain operating 669 stores across 49 U.S. states and Puerto Rico.",
+    "image": "https://bpando.org/wp-content/uploads/Old-JC-Penney-logo_BPO.jpg"
+  },
+  {
+    "id": 8,
+    "name": "CVS Pharmacy",
+    "address": "165 University Dr, Amherst, MA 01002",
+    "phone": "413-256-0421",
+    "tags": [
+      "Groceries",
+      "School",
+      "Misc"
+    ],
+    "Website": "https://www.cvs.com/store-locator/amherst-ma-pharmacies/165-university-drive-amherst-ma-01002/storeid=1095",
+    "Google maps link": "https://www.google.com/maps/dir//CVS,+165+University+Dr,+Amherst,+MA+01002/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e6d21cc1ffd8b7:0x806a73eb30046687?sa=X&ved=2ahUKEwj2-MuLscH3AhWGpIkEHeSMCaMQ48ADegQIAhAu",
+    "Description": "CVS Pharmacy, Inc. is an American retail corporation. A subsidiary of CVS Health, it is headquartered in Woonsocket, Rhode Island. It was also known as, and originally named, the Consumer Value Store",
+    "image": "http://logok.org/wp-content/uploads/2015/08/CVS-pharmacy-logo.png"
+  },
+  {
+    "id": 9,
+    "name": "Joann Fabrics",
+    "address": "367 Russell St, Hadley, MA 01035",
+    "phone": "413-586-1075",
+    "tags": [
+      "School",
+      "Misc"
+    ],
+    "Website": "https://www.joann.com/",
+    "Google maps link": "https://www.google.com/maps/dir//joann+fabrics+hampshire+mall/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e6d192646da621:0x9b0d2854cd36f803?sa=X&ved=2ahUKEwiXu5OsvcH3AhWrhIkEHSF2Af8Q9Rd6BAheEAQ",
+    "Description": "an American specialty retailer of crafts and fabrics based in Hudson, Ohio.",
+    "image": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 10,
+    "name": "Aeropostale",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "413-532-3445",
+    "tags": [
+      "Clothes"
+    ],
+    "Website": "https://www.holyokemall.com/tenants/aeropostale/",
+    "Google maps link": "https://www.google.com/maps/dir//aeropostale+holyoke+mall/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89e6de3e0d9dd8a7:0x98d4b0e9980bb4ca?sa=X&ved=2ahUKEwinqqORvcH3AhXalIkEHf6gA-8Q9Rd6BAhFEAQ",
+    "Description": "Aéropostale, Inc., also called Aero, is an American shopping mall–based retailer of casual apparel and accessories, principally targeting young adults through its Aéropostale stores.",
+    "image": "https://i.pinimg.com/originals/b8/fb/0c/b8fb0c9d097dce309ac555dece1b9d9d.jpg"
+  },
+  {
+    "id": 11,
+    "name": "American Eagle Outfitters",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "413-533-4936",
+    "tags": [
+      "Clothes"
+    ],
+    "Website": "https://storelocations.ae.com/us/ma/holyoke/00711-50-holyoke-street.html",
+    "Google maps link": "https://www.google.com/maps/dir/42.3899868,-72.5086508/american+eagle+holyoke+mall/@42.2791082,-72.7168495,11z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89e6de3e13d3697d:0xb6aaf106fe3a4631!2m2!1d-72.641471!2d42.1684",
+    "Description": "American Eagle Outfitters, Inc., also known as American Eagle, is an American lifestyle, clothing, and accessories retailer",
+    "image": "https://scarboroughtowncentre.com/wp-content/uploads/2021/11/01a43b87fb7e40a94ecf98741bc8166cb5396fce.png"
+  },
+  {
+    "id": 12,
+    "name": "Best Buy",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "413-533-4443",
+    "tags": [
+      "Tech"
+    ],
+    "Website": "bestbuy.com",
+    "Google maps link": "https://www.google.com/maps/dir/42.3899868,-72.5086508/Best+Buy,+50+Holyoke+St,+Holyoke,+MA+01040/@42.2785353,-72.7168501,11z/data=!3m1!5s0x89e6de3e68ccf263:0x6898ed8f34d475db!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89e6de3e0d9dd8a7:0xe251936db8bb0cc3!2m2!1d-72.6418807!2d42.1693807",
+    "Description": "Best Buy is an American multinational consumer electronics retailer headquartered in Richfield, Minnesota.",
+    "image": "https://coindailyupdate.com/wp-content/uploads/2020/08/008.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Champs Sports",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "413-533-4256",
+    "tags": [
+      "Sports"
+    ],
+    "Website": "champssports.com",
+    "Google maps link": "https://www.google.com/maps/dir/42.3899868,-72.5086508/Champs+Sports,+50+Holyoke+St,+Holyoke,+MA+01040/@42.2795985,-72.7168501,11z/data=!3m1!5s0x89e6de3e68ccf263:0x6898ed8f34d475db!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89e6de4012869813:0x94ba73cbbafc8f67!2m2!1d-72.641029!2d42.167767",
+    "Description": "Champs Sports is an American sports retail store, it operates as a subsidiary of Foot Locker. Products sold at Champs Sports include apparel, equipment, footwear, and accessories.",
+    "image": "data:image/png;base64,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"
+  },
+  {
+    "id": 14,
+    "name": "DSW",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "413-552-0400",
+    "tags": [
+      "Clothes"
+    ],
+    "Website": "dsw.com",
+    "Google maps link": "https://www.google.com/maps/dir/42.3899868,-72.5086508/DSW+Designer+Shoe+Warehouse,+50+Holyoke+St,+Holyoke,+MA+01040/@42.2785353,-72.7168501,11z/data=!3m1!5s0x89e6de3e68ccf263:0x6898ed8f34d475db!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89e6de3e0d9dd8a7:0x2783ffbc9698b6e9!2m2!1d-72.641302!2d42.165724",
+    "Description": "Designer Brands Inc. is an American company that sells designer and name brand shoes and fashion accessories.",
+    "image": "https://searchlogovector.com/wp-content/uploads/2018/08/dsw-designer-shoe-warehouse-logo-vector.png"
+  },
+  {
+    "id": 15,
+    "name": "Finish Line",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "413-532-2897",
+    "tags": [
+      "Clothes"
+    ],
+    "Website": "https://www.finishline.com/",
+    "Google maps link": "https://www.google.com/maps/dir/42.3899868,-72.5086508/Finish+Line,+50+Holyoke+St,+Holyoke,+MA+01040/@42.2785353,-72.7168501,11z/data=!3m2!4b1!5s0x89e6de3e68ccf263:0x6898ed8f34d475db!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89e6de3d8ac1f18b:0x12b6ff8f874a52!2m2!1d-72.6410739!2d42.1674282",
+    "Description": "Finish Line, Inc. is an American retail chain that sells athletic shoes and related apparel and accessories",
+    "image": "https://1000logos.net/wp-content/uploads/2020/10/Finish-Line-Logo.png"
+  },
+  {
+    "id": 16,
+    "name": "Gamestop",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "413-533-1766",
+    "tags": [
+      "Tech"
+    ],
+    "Website": "https://www.gamestop.com/",
+    "Google maps link": "https://www.google.com/maps/dir/42.3899868,-72.5086508/GameStop,+50+Holyoke+Street,+Holyoke,+MA+01040/@42.2785353,-72.7168501,11z/data=!3m1!5s0x89e6de3e68ccf263:0x6898ed8f34d475db!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89e6de3e0d9dd8a7:0x2b8062d2892eface!2m2!1d-72.6415665!2d42.1663235",
+    "Description": "GameStop Corp. is an American video game, consumer electronics, and gaming merchandise retailer.",
+    "image": "https://waterfordlakestowncenter.com/images/default-source/store-logos/store-logos/game-stop.tmb-t-400x400.png?sfvrsn=a81e2078_7"
+  },
+  {
+    "id": 17,
+    "name": "H&M",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "855-466-7467",
+    "tags": [
+      "Clothes"
+    ],
+    "Website": "https://www2.hm.com/en_us/index.html",
+    "Google maps link": "https://www.google.com/maps/dir/42.3899868,-72.5086508/H%26M,+50+Holyoke+Street,+Holyoke,+MA+01040/@42.2785353,-72.7168501,11z/data=!3m2!4b1!5s0x89e6de3e68ccf263:0x6898ed8f34d475db!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89e6de3e66558a19:0xbe63919caca4de4b!2m2!1d-72.6413569!2d42.1676302",
+    "Description": "H & M Hennes & Mauritz AB is a Swedish multinational clothing company headquartered in Stockholm. Its focus is fast-fashion clothing for men, women, teenagers, and children.",
+    "image": "http://www.hm.com/entrance/assets/bundle/img/HM-Share-Image.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Sports Zone",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "413-532-9988",
+    "tags": [
+      "Sports"
+    ],
+    "Website": "https://www.holyokemall.com/tenants/sports-zone/",
+    "Google maps link": "https://www.google.com/maps/dir/42.3899868,-72.5086508/Sports+Zone,+50+Holyoke+St,+Holyoke,+MA+01040/@42.2785353,-72.7168501,11z/data=!3m2!4b1!5s0x89e6de3e68ccf263:0x6898ed8f34d475db!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89e6de3e0d9dd8a7:0xf952e775c103a2e2!2m2!1d-72.6413024!2d42.1679283",
+    "Description": "Sports Zone features a wide selection of sports apparel and collectors items.",
+    "image": "https://sportszoneny.com/files/2018/05/header-font-update.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Apple Store",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "413-493-3878",
+    "tags": [
+      "Tech"
+    ],
+    "Website": "apple.com",
+    "Google maps link": "https://www.google.com/maps/dir/42.3899868,-72.5086508/Apple+Holyoke,+50+Holyoke+St,+Holyoke,+MA+01040/@42.2789842,-72.7168501,11z/data=!3m2!4b1!5s0x89e6de3e68ccf263:0x6898ed8f34d475db!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89e6de3e0d9dd8a7:0xb074f4b098633c15!2m2!1d-72.641472!2d42.168317",
+    "Description": "Apple Store is the best place to try all of Apple’s innovative products, software and accessories. You can find all things Apple, including the latest iPhones, iPads, iMacs, headphones, earbuds and everything in between.",
+    "image": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202203101409"
+  },
+  {
+    "id": 20,
+    "name": "iFix Here",
+    "address": "50 Holyoke St, Holyoke, MA 01040",
+    "phone": "413-992-7928",
+    "tags": [
+      "Tech"
+    ],
+    "Website": "https://ifixhere.com/",
+    "Google maps link": "https://www.google.com/maps/dir/42.3899868,-72.5086508/iFix+Here,+50+Holyoke+St,+Holyoke,+MA+01040/@42.2789842,-72.7168501,11z/data=!3m1!5s0x89e6de3e68ccf263:0x6898ed8f34d475db!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89e6de3e0d9dd8a7:0x692e0ea88c402e9c!2m2!1d-72.6416718!2d42.1668272",
+    "Description": "Smartphone and tablet repair at great prices.",
+    "image": "https://ifixhere.com/wp-content/uploads/2020/11/iFixHere_Vector-h.jpg"
+  }
+]

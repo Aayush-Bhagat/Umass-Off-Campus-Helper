@@ -46,15 +46,17 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    column-gap: 2em;
-    padding-left: 2em;
+    column-gap: 3em;
+    row-gap: 2em;
+    padding-left: 5em;
     border-radius: 30px;
+    padding-bottom: 2em;
 }
 
 .cards {
     width: 15em;
     min-height: 18em;
-    max-height: 18em;
+    max-height: 19em;
     margin-top: 2em;
     border-radius: 20px;
     display: flex;
@@ -89,4 +91,92 @@
     padding-inline-start: 10px;
     border-radius: 20px;
     font-size: 13px;
+}
+
+.Groceries,
+.Movies,
+.Fast {
+    background-color: #63BDFF;
+}
+
+.School,
+.Climbing,
+.SitDown {
+    background-color: #FF6363;
+}
+
+.Tech,
+.Fitness,
+.Mexican {
+    background-color: #FFC163;
+}
+
+.Clothes,
+.Bowling,
+.Japanese {
+    background-color: #9E63FF;
+}
+
+.Sports,
+.Hiking,
+.Sandwiches {
+    background-color: #63FFA1;
+}
+
+.Misc,
+.Games,
+.Korean {
+    background-color: #FF63C1;
+}
+
+.Skating,
+.Grill {
+    background-color: #63FFE3;
+}
+
+.Museum,
+.TakeOut {
+    background-color: #4A79BF;
+}
+
+.Music,
+.Italian {
+    background-color: #8C4ABF;
+}
+
+.Bar {
+    background-color: #0072F9;
+}
+
+.Burgers {
+    background-color: #3ADD5E;
+}
+
+.Pizza {
+    background-color: #EB9292;
+}
+
+.Pub {
+    background-color: #92C0EB;
+}
+
+.Wings {
+    background-color: #C492EB;
+}
+
+.Mediterranean {
+    background-color: #EB92D2;
+}
+
+.Theater,
+.Steakhouse {
+    background-color: #BCDD3A;
+}
+
+.img {
+    object-fit: contain;
+    width: 100%;
+    height: 100px;
+    padding-left: 2em;
+    padding-right: 2em;
 }
