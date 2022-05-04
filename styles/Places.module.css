@@ -180,3 +180,15 @@
     padding-left: 2em;
     padding-right: 2em;
 }
+
+.cardTitle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.star {
+    margin-left: .5em;
+    min-width: 30px;
+    min-height: 30px;
+}
