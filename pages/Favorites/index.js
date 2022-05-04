@@ -55,8 +55,11 @@ export default function Index() {
         )
     }
   return (
-    <div>
-        {favs === null? null : renderFavs(favs)}
-    </div>
+      <>
+          <h1> Favorites</h1>
+          <div>
+              {favs === null ? null : renderFavs(favs)}
+          </div>
+      </>
   )
 }
