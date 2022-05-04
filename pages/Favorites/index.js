@@ -56,7 +56,7 @@ export default function Index() {
     }
   return (
       <>
-          <h1> Favorites</h1>
+          <h1 className={styles.title}> Favorites</h1>
           <div>
               {favs === null ? null : renderFavs(favs)}
           </div>
