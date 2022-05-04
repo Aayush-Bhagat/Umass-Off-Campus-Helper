@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
             <Link href="/Stores" passHref><Nav.Link>Stores</Nav.Link></Link>
             <Link href="/Restaurants" passHref><Nav.Link>Restaurants</Nav.Link></Link>
             <Link href="/Entertainment" passHref><Nav.Link>Entertainment</Nav.Link></Link>
-            <Link href="#favorites" passHref><Nav.Link >Favorites</Nav.Link></Link>
+            <Link href="/Favorites" passHref><Nav.Link >Favorites</Nav.Link></Link>
           </Nav>
       </Navbar>
       <Component {...pageProps} />

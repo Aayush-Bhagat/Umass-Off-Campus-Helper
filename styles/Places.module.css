@@ -196,3 +196,28 @@
     min-width: 30px;
     min-height: 30px;
 }
+
+.favContainer {
+    margin-top: 4em;
+    margin-left: 5em;
+    padding-top: 2em;
+    background-color: #F2F2F2;
+    width: 90%;
+    height: 200px;
+    min-height: 55em;
+    overflow: auto;
+    column-gap: 3em;
+    row-gap: 2em;
+    padding-left: 5em;
+    border-radius: 30px;
+    padding-bottom: 2em;
+}
+
+.favCardContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 3em;
+    row-gap: 2em;
+    margin-bottom: 2em;
+}
