@@ -12,7 +12,11 @@ export default function Index() {
             setFavs(item)
         }
         else {
-            setFavs([])
+            setFavs({
+                Entertainment: [],
+                Stores: [],
+                Restaurants: []
+            })
         }
     }, [])
 
