@@ -56,7 +56,16 @@ export default function Index() {
                         <option value="Dessert">Dessert</option>
                         <option value="Mexican">Mexican</option>
                         <option value="SitDown">Sit down</option>
+                        <option value="TakeOut"> Take Out</option>
                         <option value="Mediterranean">Mediterranean</option>
+                        <option value="Wings"> Wings</option>
+                        <option value="Burgers">Burgers</option>
+                        <option value="Pizza">Pizza</option>
+                        <option value="Japanese">Japanese</option>
+                        <option value="Grill">Grill</option>
+                        <option value="Soup">Soup</option>
+                        <option value="Sandwiches">Sandwiches</option>
+                        <option value="Steakhouse">Steakhouse</option>
                     </select>
                 </div>
                 <div className={styles.cardContainer}>

@@ -54,6 +54,8 @@ export default function Index() {
             <option value="School">School</option>
             <option value="Tech">Tech</option>
             <option value="Clothes"> Clothes</option>
+            <option value="Sports">Sports</option>
+            <option value="Misc">Misc</option>
           </select>
         </div>
         <div className={styles.cardContainer}>

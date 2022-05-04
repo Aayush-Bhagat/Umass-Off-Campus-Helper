@@ -54,6 +54,12 @@ export default function Index() {
                         <option value="Movies">Movies</option>
                         <option value="Fitness">Fitness</option>
                         <option value="Games">Games</option>
+                        <option value="Climbing"> Climbing </option>
+                        <option value="Bowling"> Bowling </option>
+                        <option value="Skating">Skating</option>
+                        <option value="Museum">Museum</option>
+                        <option value="Bar"> Bar</option>
+                        <option value="Theater"> Theater</option>
                     </select>
                 </div>
                 <div className={styles.cardContainer}>
